@@ -20,7 +20,6 @@
     "eject": "react-scripts eject"
   },
   "main": "index.js",
-  "repository": "https://github.com/ccrs2006/Clicky-game-react.git",
   "author": "erinlemler <erin_lemler@yahoo.com>",
   "license": "MIT"
 }
