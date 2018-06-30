@@ -1,8 +1,8 @@
 {
-  "name": "ReactClickyGame",
+  "name": "kitties-clicky-react-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ccrs2006.github.io/Clicky-game-react",
+  "homepage": "https://github.com/erinlemler",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "gh-pages": "^1.1.0",
